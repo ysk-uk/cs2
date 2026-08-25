@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="ESP_draw/ESP_draw.vcxproj" Id="3c315b93-4a5c-4921-9793-284208f20ac6" />
-</Solution>
